@@ -1,0 +1,5 @@
+logs
+.idea
+./ops_agent
+./ops_agent.pid
+./watch.pid
